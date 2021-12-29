@@ -46,9 +46,9 @@ Logger.table("table",{
 ```
 ![example image](https://github.com/lwl666666/react-native-easy-logger/blob/master/src/assets/example.png "example image")
 
-###Methods
+### Methods
 
-####createLogger(options)
+#### createLogger(options)
 
 #### configLogger(options)
 
@@ -60,31 +60,30 @@ config options
 | prefixPlaceholder  | prefix placeholder  | string  | $prefix  |
 | prdDebug  | prd environment can print log  | boolean  | false  |
 
-####log(args)
+#### log(args)
 print log without prefix 
 
-####info(prefix,args)
+#### info(prefix,args)
 print log with prefix
 
-####warn(prefix,args)
+#### warn(prefix,args)
 print warning log
 
-####error(prefix,args)
+#### error(prefix,args)
 print error log
 
-####table(prefix,args)
+#### table(prefix,args)
 
-####group(args)
-####groupEnd(args)
-####dir(args)
-####assert(args)
-####trace(args)
-####time(args)
-####timeEnd(args)
-####profile(args)
-####profileEnd(args)
-####count(args)
-####table(args)
+#### group(args)
+#### groupEnd(args)
+#### ssert(args)
+#### trace(args)
+#### time(args)
+#### timeEnd(args)
+#### profile(args)
+#### profileEnd(args)
+#### count(args)
+#### table(args)
 
 
 
