@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -8,6 +8,11 @@
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/lwl666666/react-native-easy-logger",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwl666666/react-native-easy-logger.git"
+  },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.5",
