@@ -6,7 +6,7 @@ Logger.warn("easy logger:","test")
 Logger.error("easy logger:","test")
 
 Logger.configLogger({
-  prefixTemplate:"=======$prefix=========："
+  prefixTemplate:"-------- $prefix --------："
 })
 
 Logger.log("easy logger:","test")
